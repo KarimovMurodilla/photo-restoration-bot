@@ -136,3 +136,8 @@ database.db
 
 # gsheets
 service_account.json
+
+
+# Images
+images/downloads/*
+images/uploads/*
